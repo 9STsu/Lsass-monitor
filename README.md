@@ -1,4 +1,8 @@
 # Lsass-monitor
+
+![lsassmonoitr](https://github.com/user-attachments/assets/bf6be11e-f101-4598-ba13-6ae0eef38473)
+
+
 Windows tool that enumerates all open handles in the system and identifies which processes hold handles to the LSASS process (`lsass.exe`)
 
 1. Enables SeDebugPrivilege
